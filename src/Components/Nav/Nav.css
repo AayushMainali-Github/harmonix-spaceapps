@@ -1,0 +1,50 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2px 30px 2px 20px;
+  align-items: center;
+  width: 100vw;
+}
+.nav > .left {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.nav > .left > img {
+  height: 64px;
+  animation: rotation 6s infinite linear;
+}
+.nav > .left > div {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0.7px;
+  color: #1c4d06;
+}
+.nav > .right {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+.nav > .right > .passive {
+  text-decoration: none;
+  color: #1c4d069c;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+.nav > .right > .active {
+  text-decoration: none;
+  color: #1c4d06;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
