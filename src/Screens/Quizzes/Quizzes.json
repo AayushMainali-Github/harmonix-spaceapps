@@ -1,0 +1,470 @@
+{
+  "1": [
+    {
+      "question": "When were the SDGs adopted?",
+      "optionA": "2000",
+      "optionB": "2005",
+      "optionC": "2015",
+      "optionD": "2020",
+      "correct": "C",
+      "difficulty": "Easy",
+      "explanation": "The SDGs were adopted by all United Nations Member States in 2015."
+    },
+    {
+      "question": "How many SDGs are there?",
+      "optionA": "10",
+      "optionB": "12",
+      "optionC": "15",
+      "optionD": "17",
+      "correct": "D",
+      "difficulty": "Easy",
+      "explanation": "There are 17 SDGs designed to address global challenges by 2030."
+    },
+    {
+      "question": "Which of the following is NOT one of the SDGs?",
+      "optionA": "No Poverty",
+      "optionB": "Clean Water and Sanitation",
+      "optionC": "Space Exploration",
+      "optionD": "Climate Action",
+      "correct": "C",
+      "difficulty": "Medium",
+      "explanation": "Space exploration is not included as one of the 17 SDGs."
+    },
+    {
+      "question": "What is the deadline for achieving the SDGs?",
+      "optionA": "2025",
+      "optionB": "2030",
+      "optionC": "2040",
+      "optionD": "2050",
+      "correct": "B",
+      "difficulty": "Easy",
+      "explanation": "The SDGs are part of the 2030 Agenda for Sustainable Development."
+    },
+    {
+      "question": "Which SDG focuses on quality education?",
+      "optionA": "SDG 3",
+      "optionB": "SDG 4",
+      "optionC": "SDG 5",
+      "optionD": "SDG 6",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "SDG 4 aims to ensure inclusive and equitable quality education."
+    }
+  ],
+  "2": [
+    {
+      "question": "What does SDG 13 focus on?",
+      "optionA": "Climate Action",
+      "optionB": "Clean Energy",
+      "optionC": "Gender Equality",
+      "optionD": "No Poverty",
+      "correct": "A",
+      "difficulty": "Easy",
+      "explanation": "SDG 13 addresses the need to take urgent action to combat climate change."
+    },
+    {
+      "question": "Which of the following is a key theme of the SDGs?",
+      "optionA": "Environmental sustainability",
+      "optionB": "Economic growth",
+      "optionC": "Social inclusion",
+      "optionD": "All of the above",
+      "correct": "D",
+      "difficulty": "Medium",
+      "explanation": "The SDGs focus on environmental, economic, and social development."
+    },
+    {
+      "question": "Which SDG is related to 'Life Below Water'?",
+      "optionA": "SDG 12",
+      "optionB": "SDG 14",
+      "optionC": "SDG 15",
+      "optionD": "SDG 16",
+      "correct": "B",
+      "difficulty": "Easy",
+      "explanation": "SDG 14 focuses on conserving and sustainably using the oceans, seas, and marine resources."
+    },
+    {
+      "question": "What is the main objective of the SDGs?",
+      "optionA": "To end all forms of global poverty",
+      "optionB": "To address climate change",
+      "optionC": "To protect ecosystems",
+      "optionD": "All of the above",
+      "correct": "D",
+      "difficulty": "Easy",
+      "explanation": "The SDGs aim to address multiple global challenges, including poverty, climate change, and ecosystem protection."
+    },
+    {
+      "question": "Who is responsible for implementing the SDGs?",
+      "optionA": "The UN only",
+      "optionB": "National governments only",
+      "optionC": "Civil society only",
+      "optionD": "Everyone, including governments, businesses, and individuals",
+      "correct": "D",
+      "difficulty": "Medium",
+      "explanation": "Achieving the SDGs requires efforts from all sectors of society."
+    }
+  ],
+  "3": [
+    {
+      "question": "What is the focus of SDG 15?",
+      "optionA": "Life Below Water",
+      "optionB": "Climate Action",
+      "optionC": "Life on Land",
+      "optionD": "Gender Equality",
+      "correct": "C",
+      "difficulty": "Easy",
+      "explanation": "SDG 15 focuses on protecting, restoring, and promoting the sustainable use of terrestrial ecosystems."
+    },
+    {
+      "question": "Which of the following is NOT a target of SDG 15?",
+      "optionA": "Combat desertification",
+      "optionB": "Increase afforestation",
+      "optionC": "Halt biodiversity loss",
+      "optionD": "Reduce water pollution",
+      "correct": "D",
+      "difficulty": "Medium",
+      "explanation": "Reducing water pollution is part of SDG 6, not SDG 15."
+    },
+    {
+      "question": "How much of the Earth's land surface is covered by forests?",
+      "optionA": "10%",
+      "optionB": "30%",
+      "optionC": "50%",
+      "optionD": "70%",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "Forests cover approximately 30% of the Earth’s land surface."
+    },
+    {
+      "question": "Why is biodiversity important for ecosystems?",
+      "optionA": "It increases ecosystem stability",
+      "optionB": "It provides essential ecosystem services",
+      "optionC": "It supports human livelihoods",
+      "optionD": "All of the above",
+      "correct": "D",
+      "difficulty": "Medium",
+      "explanation": "Biodiversity is crucial for ecosystem stability, services, and human livelihoods."
+    },
+    {
+      "question": "What percentage of known species are currently at risk of extinction?",
+      "optionA": "5%",
+      "optionB": "15%",
+      "optionC": "25%",
+      "optionD": "40%",
+      "correct": "C",
+      "difficulty": "Hard",
+      "explanation": "About 25% of known species are at risk of extinction due to human activities."
+    }
+  ],
+  "4": [
+    {
+      "question": "Which technology is often used to monitor wildlife movements?",
+      "optionA": "GPS collars",
+      "optionB": "Drones",
+      "optionC": "Camera traps",
+      "optionD": "All of the above",
+      "correct": "D",
+      "difficulty": "Medium",
+      "explanation": "GPS collars, drones, and camera traps are widely used to track wildlife movements and prevent conflict."
+    },
+    {
+      "question": "What is the purpose of wildlife warning systems?",
+      "optionA": "To capture wildlife",
+      "optionB": "To alert communities when wildlife is near",
+      "optionC": "To track illegal poaching",
+      "optionD": "To relocate wildlife to protected areas",
+      "correct": "B",
+      "difficulty": "Easy",
+      "explanation": "Wildlife warning systems help communities avoid unexpected encounters with wildlife."
+    },
+    {
+      "question": "What role does AI play in HWC mitigation?",
+      "optionA": "AI can predict future conflict zones",
+      "optionB": "AI helps in poaching activities",
+      "optionC": "AI is used to hunt animals",
+      "optionD": "AI replaces local communities in conservation efforts",
+      "correct": "A",
+      "difficulty": "Medium",
+      "explanation": "AI can analyze past data to predict where conflicts between humans and wildlife are likely to occur."
+    },
+    {
+      "question": "What is a camera trap?",
+      "optionA": "A trap used to capture wildlife",
+      "optionB": "A device that takes pictures of wildlife automatically",
+      "optionC": "A tool for hunting animals",
+      "optionD": "A tourist camera",
+      "correct": "B",
+      "difficulty": "Easy",
+      "explanation": "Camera traps are automated cameras used to photograph wildlife without disturbing them."
+    },
+    {
+      "question": "What is one advantage of using drones in wildlife conservation?",
+      "optionA": "They scare animals away",
+      "optionB": "They provide real-time monitoring",
+      "optionC": "They capture animals for zoos",
+      "optionD": "They are used for tourism purposes",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "Drones allow conservationists to monitor wildlife in real-time, even in hard-to-reach areas."
+    }
+  ],
+  "5": [
+    {
+      "question": "What is biodiversity?",
+      "optionA": "The variety of life on Earth",
+      "optionB": "The number of humans in a given area",
+      "optionC": "The variety of trees in forests",
+      "optionD": "The range of mountains in a region",
+      "correct": "A",
+      "difficulty": "Easy",
+      "explanation": "Biodiversity refers to the diversity of species, ecosystems, and genetic variations on Earth."
+    },
+    {
+      "question": "Why is biodiversity important for ecosystems?",
+      "optionA": "It reduces ecosystem stability",
+      "optionB": "It increases ecosystem stability and resilience",
+      "optionC": "It reduces the number of species",
+      "optionD": "It limits ecosystem services",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "Biodiversity strengthens ecosystems, making them more resilient to changes and disturbances."
+    },
+    {
+      "question": "Which of the following is a threat to biodiversity?",
+      "optionA": "Deforestation",
+      "optionB": "Afforestation",
+      "optionC": "Sustainable agriculture",
+      "optionD": "Wildlife corridors",
+      "correct": "A",
+      "difficulty": "Medium",
+      "explanation": "Deforestation destroys habitats, leading to loss of biodiversity."
+    },
+    {
+      "question": "What is habitat fragmentation?",
+      "optionA": "The expansion of habitats",
+      "optionB": "The division of habitats into smaller, isolated patches",
+      "optionC": "The reforestation of degraded areas",
+      "optionD": "The creation of new habitats for wildlife",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "Habitat fragmentation occurs when larger habitats are divided into smaller, disconnected areas, which limits biodiversity."
+    },
+    {
+      "question": "Which practice helps restore biodiversity?",
+      "optionA": "Overfishing",
+      "optionB": "Reforestation",
+      "optionC": "Urbanization",
+      "optionD": "Industrialization",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "Reforestation helps restore ecosystems and biodiversity by planting trees in degraded areas."
+    }
+  ],
+  "6": [
+    {
+      "question": "What is an ecosystem?",
+      "optionA": "A community of living organisms and their physical environment",
+      "optionB": "A human-made habitat",
+      "optionC": "A national park",
+      "optionD": "A type of renewable energy",
+      "correct": "A",
+      "difficulty": "Easy",
+      "explanation": "An ecosystem is the interaction of living organisms (plants, animals, and microbes) with their environment."
+    },
+    {
+      "question": "How does habitat destruction lead to human-wildlife conflict?",
+      "optionA": "It increases biodiversity",
+      "optionB": "It forces wildlife into human-inhabited areas",
+      "optionC": "It reduces human population growth",
+      "optionD": "It increases the availability of resources for wildlife",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "Habitat destruction limits the space and resources available to wildlife, leading them to venture into human settlements."
+    },
+    {
+      "question": "What is a wildlife corridor?",
+      "optionA": "A transportation route for animals",
+      "optionB": "A protected pathway that connects wildlife habitats",
+      "optionC": "A zoo for endangered species",
+      "optionD": "A barrier to keep wildlife away from humans",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "Wildlife corridors allow animals to move safely between fragmented habitats, reducing the chance of conflict with humans."
+    },
+    {
+      "question": "What is rewilding?",
+      "optionA": "Restoring ecosystems by reintroducing native species",
+      "optionB": "Destroying wildlife habitats for human use",
+      "optionC": "Expanding human settlements into natural areas",
+      "optionD": "Preventing animals from returning to wild habitats",
+      "correct": "A",
+      "difficulty": "Medium",
+      "explanation": "Rewilding involves reintroducing native species to restore natural ecosystems and biodiversity."
+    },
+    {
+      "question": "How can ecosystem restoration reduce human-wildlife conflict?",
+      "optionA": "By reducing wildlife populations",
+      "optionB": "By creating more food for humans",
+      "optionC": "By providing sufficient habitats and resources for wildlife",
+      "optionD": "By preventing wildlife from reproducing",
+      "correct": "C",
+      "difficulty": "Medium",
+      "explanation": "Restoring ecosystems ensures that wildlife has adequate space and resources, reducing the need for them to encroach on human territories."
+    }
+  ],
+  "7": [
+    {
+      "question": "What is CITES?",
+      "optionA": "A global treaty regulating the trade of endangered species",
+      "optionB": "A program to promote urban development",
+      "optionC": "A wildlife protection law in the US",
+      "optionD": "A national park management system",
+      "correct": "A",
+      "difficulty": "Easy",
+      "explanation": "CITES is an international agreement aimed at ensuring that trade in wild animals and plants does not threaten their survival."
+    },
+    {
+      "question": "What does the Convention on Biological Diversity (CBD) aim to achieve?",
+      "optionA": "Conservation of biodiversity",
+      "optionB": "Sustainable use of natural resources",
+      "optionC": "Fair sharing of benefits from genetic resources",
+      "optionD": "All of the above",
+      "correct": "D",
+      "difficulty": "Medium",
+      "explanation": "The CBD focuses on conserving biodiversity, promoting sustainable use, and ensuring fair benefit-sharing."
+    },
+    {
+      "question": "Which agreement addresses wetland conservation globally?",
+      "optionA": "Ramsar Convention",
+      "optionB": "Paris Agreement",
+      "optionC": "Kyoto Protocol",
+      "optionD": "UNESCO World Heritage Convention",
+      "correct": "A",
+      "difficulty": "Medium",
+      "explanation": "The Ramsar Convention is dedicated to the conservation and sustainable use of wetlands."
+    },
+    {
+      "question": "Which of the following is a challenge to enforcing global wildlife conservation agreements?",
+      "optionA": "Lack of funding",
+      "optionB": "Political instability",
+      "optionC": "Conflicting economic interests",
+      "optionD": "All of the above",
+      "correct": "D",
+      "difficulty": "Medium",
+      "explanation": "Funding, political instability, and economic interests often hinder the enforcement of global conservation agreements."
+    },
+    {
+      "question": "Which agreement is primarily focused on climate change but also supports biodiversity indirectly?",
+      "optionA": "Paris Agreement",
+      "optionB": "CITES",
+      "optionC": "Ramsar Convention",
+      "optionD": "CBD",
+      "correct": "A",
+      "difficulty": "Medium",
+      "explanation": "The Paris Agreement focuses on climate change, but addressing climate change also helps preserve biodiversity."
+    }
+  ],
+  "8": [
+    {
+      "question": "Why are local communities important in wildlife conservation?",
+      "optionA": "They are directly impacted by wildlife",
+      "optionB": "They provide valuable traditional knowledge",
+      "optionC": "They can implement local conservation strategies",
+      "optionD": "All of the above",
+      "correct": "D",
+      "difficulty": "Medium",
+      "explanation": "Local communities play a key role in conservation due to their direct experiences and traditional knowledge."
+    },
+    {
+      "question": "What is one example of Indigenous knowledge contributing to conservation?",
+      "optionA": "Use of modern technology",
+      "optionB": "Sacred groves as biodiversity hotspots",
+      "optionC": "Large-scale industrial farming",
+      "optionD": "Building urban centers",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "Many Indigenous cultures preserve biodiversity by protecting sacred groves, which often act as biodiversity hotspots."
+    },
+    {
+      "question": "What is a key challenge faced by local communities in wildlife conservation?",
+      "optionA": "Lack of wildlife",
+      "optionB": "Limited resources and decision-making power",
+      "optionC": "Overabundance of natural resources",
+      "optionD": "None of the above",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "Many local communities face challenges such as lack of resources and access to decision-making in conservation projects."
+    },
+    {
+      "question": "Which of the following benefits local communities in conservation efforts?",
+      "optionA": "Compensation schemes for wildlife-related damage",
+      "optionB": "Ignoring community concerns",
+      "optionC": "Relocating people without consent",
+      "optionD": "Developing urban centers in wildlife areas",
+      "correct": "A",
+      "difficulty": "Medium",
+      "explanation": "Compensation schemes provide financial support to communities that experience losses due to wildlife, encouraging coexistence."
+    },
+    {
+      "question": "Which of the following is a community-based conservation initiative?",
+      "optionA": "National parks without local involvement",
+      "optionB": "Government-led enforcement of wildlife protection",
+      "optionC": "Maasai Mara community-based ecotourism",
+      "optionD": "Large-scale deforestation projects",
+      "correct": "C",
+      "difficulty": "Medium",
+      "explanation": "In Maasai Mara, community-based ecotourism projects provide income while promoting wildlife conservation."
+    }
+  ],
+  "9": [
+    {
+      "question": "How does climate change affect wildlife?",
+      "optionA": "It forces wildlife to migrate to new areas",
+      "optionB": "It increases food availability for wildlife",
+      "optionC": "It stabilizes ecosystems",
+      "optionD": "It reduces human-wildlife interactions",
+      "correct": "A",
+      "difficulty": "Medium",
+      "explanation": "Climate change alters habitats, forcing many species to move into new areas, often leading to increased conflict with humans."
+    },
+    {
+      "question": "Which of the following is a consequence of human population growth?",
+      "optionA": "More space for wildlife",
+      "optionB": "Increased demand for natural resources",
+      "optionC": "Increased biodiversity",
+      "optionD": "Decreased agricultural activities",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "Human population growth increases the demand for land, water, and food, often leading to competition with wildlife."
+    },
+    {
+      "question": "What is one future challenge for wildlife conservation?",
+      "optionA": "Expanding wildlife habitats",
+      "optionB": "Climate change and habitat loss",
+      "optionC": "Reduced human-wildlife conflict",
+      "optionD": "Increased biodiversity",
+      "correct": "B",
+      "difficulty": "Hard",
+      "explanation": "Climate change and habitat loss are major challenges that threaten both wildlife populations and biodiversity."
+    },
+    {
+      "question": "How does urban expansion contribute to HWC?",
+      "optionA": "It creates more wildlife habitats",
+      "optionB": "It forces wildlife to move closer to human settlements",
+      "optionC": "It increases the amount of space available for wildlife",
+      "optionD": "It has no effect on wildlife",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "As urban areas expand, wildlife is often displaced, increasing the likelihood of conflict with humans."
+    },
+    {
+      "question": "Which of the following is a solution for mitigating future human-wildlife conflict?",
+      "optionA": "Expanding cities into wildlife areas",
+      "optionB": "Promoting sustainable urban planning",
+      "optionC": "Increasing human population growth",
+      "optionD": "Reducing conservation efforts",
+      "correct": "B",
+      "difficulty": "Medium",
+      "explanation": "Sustainable urban planning can help integrate natural habitats into human development, reducing future conflicts."
+    }
+  ]
+}
