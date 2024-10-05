@@ -20,14 +20,14 @@ const Home = () => {
           HarmoniX helps students explore and understand SDG Goal 15: Life on Land through engaging tutorials, interactive quizzes, and collaborative forums. Join us to learn,
           share, and take action for a sustainable planet.
         </div>
-        <a href="/tutorials">Get Started</a>
+        <a href="/course">Get Started</a>
       </div>
       <div className="features">
         <div className="header">Features</div>
         <div className="list">
           <Feature
             img={Book}
-            title="Interactive Tutorials"
+            title="Interactive Course"
             desc="Learn about biodiversity, conservation, and sustainable practices with our comprehensive and engaging tutorials. Explore SDG Goal 15 through multimedia lessons designed to deepen your understanding."
           />
           <Feature
@@ -58,7 +58,7 @@ const Home = () => {
           We’ll guide you through interactive tutorials, quizzes, and challenges to deepen your understanding of biodiversity and sustainability. Join our community, share ideas,
           and take steps toward preserving life on land.
         </div>
-        <a href="/tutorials">Join Now and Start Learning</a>
+        <a href="/course">Join Now and Start Learning</a>
       </div>
     </div>
   );

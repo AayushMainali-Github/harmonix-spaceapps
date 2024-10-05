@@ -1,0 +1,115 @@
+.quizzes {
+  min-height: 100vh;
+  background: #57bc2c49;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.quizzes > .container {
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 0;
+}
+.quizzes > .container > .header {
+  font-size: 26px;
+  color: #1c4d06;
+  font-weight: 600;
+}
+.quizzes > .container > .main {
+  display: flex;
+  justify-content: space-between;
+  width: 1200px;
+  margin-top: 12px;
+}
+.quizzes > .container > .main > .left {
+  background: #1c4d0673;
+  width: 840px;
+  padding: 20px 15px;
+  border-radius: 8px;
+}
+.quizzes > .container > .main > .left > .top {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.quizzes > .container > .main > .left > .top > div {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 600;
+}
+.quizzes > .container > .main > .left > .top > button {
+  border: 0;
+  padding: 3px 10px;
+  font-size: 14px;
+  border-radius: 10px;
+  font-weight: 600;
+  background: #1c4d06;
+  color: white;
+  letter-spacing: -0.1px;
+}
+.quizzes > .container > .main > .left > .select {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.quizzes > .container > .main > .left > .select > div {
+  display: flex;
+  gap: 6px;
+  align-items: flex-start;
+}
+.quizzes > .container > .main > .left > .select > div > input {
+  width: 16px;
+  height: 16px;
+}
+.quizzes > .container > .main > .left > .select > div > label {
+  color: white;
+  font-size: 18px;
+}
+.quizzes > .container > .main > .right {
+  display: flex;
+  flex-direction: column;
+  width: 340px;
+  gap: 20px;
+}
+.quizzes > .container > .main > .right > div {
+  background: #1c4d0673;
+  width: 340px;
+  padding: 16px 15px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+
+  gap: 10px;
+}
+.quizzes > .container > .main > .right > div > div {
+  font-weight: 600;
+  color: white;
+  font-size: 20px;
+}
+.quizzes > .container > .main > .right > div > select {
+  border: 0;
+  outline: 0;
+  padding: 10px 10px;
+  font-size: 15px;
+  font-weight: 500;
+  background: #1c4d067c;
+  color: white;
+  border-radius: 6px;
+}
+
+.quizzes > .container > button {
+  text-decoration: none;
+  background: #57bc2c;
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 600;
+  width: fit-content;
+  border: 0;
+  margin-top: 20px;
+}
