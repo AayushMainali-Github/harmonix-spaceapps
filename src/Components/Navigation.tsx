@@ -14,6 +14,7 @@ import Six from "../Screens/Tutorials/Screens/Six";
 import Seven from "../Screens/Tutorials/Screens/Seven";
 import Eight from "../Screens/Tutorials/Screens/Eight";
 import Nine from "../Screens/Tutorials/Screens/Nine";
+import Submit from "../Screens/Quizzes/Submit";
 const Navigation = () => {
   return (
     <BrowserRouter>
@@ -22,6 +23,7 @@ const Navigation = () => {
           <Route index element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/courses" element={<Tutorials />} />
+          <Route path="/submit" element={<Submit />} />
           <Route path="/quizzes" element={<Quizzes />} />
           <Route path="/courses/one" element={<One />} />
           <Route path="/courses/two" element={<Two />} />

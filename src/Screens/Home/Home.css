@@ -50,6 +50,7 @@
   width: 1200px;
   gap: 20px;
   margin-bottom: 30px;
+  cursor: pointer;
 }
 .home > .features > .header {
   font-size: 32px;

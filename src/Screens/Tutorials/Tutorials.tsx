@@ -24,7 +24,7 @@ const Tutorials = () => {
             This tutorial introduces the 17 Sustainable Development Goals (SDGs), adopted by all United Nations Member States in 2015. It covers how these goals address global
             challenges like poverty, inequality, climate change, and environmental degradation, emphasizing the interconnected nature of the goals and their global impact.
           </div>
-          <a href="/tutorials/one">Start Learning!</a>
+          <a href="/courses/one">Start Learning!</a>
         </div>
       </div>
       <div className="list">

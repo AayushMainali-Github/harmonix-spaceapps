@@ -161,7 +161,7 @@ const Quizzes = () => {
       <div className="quizQuestions">
         <div className="title">Your Custom Quiz</div>
         <div className="quizCont">{quizQuestions}</div>
-        <a href="/quizzes">Try Again</a>
+        <a href="/submit">Submit</a>
       </div>
     );
 };

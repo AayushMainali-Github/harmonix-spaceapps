@@ -175,3 +175,33 @@
   border: 0;
   margin-bottom: 20px;
 }
+
+.submit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background: #57bc2c49;
+  justify-content: center;
+}
+.submit > div {
+  font-size: 22px;
+  font-weight: 600;
+  color: #1c4d06;
+  margin-bottom: 7px;
+}
+.submit > span {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  margin-top: 8px;
+}
+.submit > span > a {
+  text-decoration: none;
+  background: #57bc2c;
+  font-size: 16px;
+  padding: 10px 24px;
+  border-radius: 6px;
+  color: white;
+  font-weight: 600;
+}
