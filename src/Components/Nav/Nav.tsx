@@ -23,12 +23,6 @@ const Nav = (props: Props) => {
         <a className={props.active === "quizzes" ? "active" : "passive"} href="/quizzes">
           Quizzes
         </a>
-        <a className={props.active === "forum" ? "active" : "passive"} href="/forum">
-          Forum
-        </a>
-        <a className={props.active === "profile" ? "active" : "passive"} href="/profile">
-          Profile
-        </a>
       </div>
     </div>
   );
