@@ -3,6 +3,7 @@ import "./Quizzes.css";
 import Nav from "../../Components/Nav/Nav";
 import Questions from "./Quizzes.json";
 import Quiz from "./Quiz";
+import Bottom from "../Tutorials/Bottom";
 
 const Quizzes = () => {
   const [selected, setSelected] = useState<Array<boolean>>([true, true, true, true, true, true, true, true, true]);
@@ -148,7 +149,14 @@ const Quizzes = () => {
         </div>
       </div>
     );
-  else return <div>{quizQuestions}</div>;
+  else
+    return (
+      <div className="quizQuestions">
+        <div className="title">Your Custom Quiz</div>
+        <div className="quizCont">{quizQuestions}</div>
+        <a href="/quizzes">Try Again</a>
+      </div>
+    );
 };
 
 export default Quizzes;
