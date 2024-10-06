@@ -110,6 +110,9 @@ const Two = () => {
           international cooperation, policy changes, and individual actions, we can work towards a future where ecosystems are protected, biodiversity is preserved, and sustainable
           development is realized.
         </div>
+        <div className="desc">
+          <b>Note: Content of the course is written by using generative AI.</b>
+        </div>
         <Bottom backText="Chapter 1" nextText="Chapter 3" back="/courses/one" next="/courses/three" />
       </div>
     </div>

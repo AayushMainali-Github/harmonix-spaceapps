@@ -95,6 +95,9 @@ const Six = () => {
           creating wildlife corridors, and practicing sustainable land management, we can mitigate these conflicts and promote peaceful coexistence between humans and wildlife.
           Conservation efforts that prioritize ecosystem health are essential to achieving long-term solutions to human-wildlife conflict.
         </div>
+        <div className="desc">
+          <b>Note: Content of the course is written by using generative AI.</b>
+        </div>
         <Bottom backText="Chapter 5" nextText="Chapter 7" back="/courses/five" next="/courses/seven" />
       </div>
     </div>

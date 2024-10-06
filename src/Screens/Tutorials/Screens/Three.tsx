@@ -156,6 +156,9 @@ const Three = () => {
           zones, and utilizing technological solutions, we can mitigate the impact of these conflicts and foster coexistence. Ensuring that human-wildlife conflict is addressed as
           part of broader conservation strategies is critical to safeguarding biodiversity and promoting sustainable development.
         </div>
+        <div className="desc">
+          <b>Note: Content of the course is written by using generative AI.</b>
+        </div>
         <Bottom backText="Chapter 2" nextText="Chapter 4" back="/courses/two" next="/courses/four" />
       </div>
     </div>

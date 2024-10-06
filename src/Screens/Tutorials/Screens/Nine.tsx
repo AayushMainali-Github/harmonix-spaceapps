@@ -111,6 +111,9 @@ const Nine = () => {
           mitigate these conflicts and promote coexistence between humans and wildlife. The case of polar bears in the Arctic illustrates the urgent need for action to address the
           impacts of climate change on wildlife, and it serves as a reminder that the challenges of human-wildlife conflict are global in nature and require collective solutions.
         </div>
+        <div className="desc">
+          <b>Note: Content of the course is written by using generative AI.</b>
+        </div>
         <Bottom backText="Chapter 8" nextText="Quizzes" back="/courses/eight" next="/quizzes" />
       </div>
     </div>

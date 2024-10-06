@@ -113,6 +113,9 @@ const Four = () => {
           harness the benefits of technology, it is crucial to address challenges related to cost, accessibility, training, and environmental sustainability. As these technologies
           continue to evolve, they offer new hope for achieving SDG 15 and promoting a balance between human development and wildlife conservation.
         </div>
+        <div className="desc">
+          <b>Note: Content of the course is written by using generative AI.</b>
+        </div>
         <Bottom backText="Chapter 3" nextText="Chapter 5" back="/courses/three" next="/courses/five" />
       </div>
     </div>

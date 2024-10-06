@@ -126,6 +126,9 @@ const One = () => {
           that foster long-term sustainability. The SDGs remind us that the development choices we make today will shape the world for future generations. Through collective
           efforts and a steadfast commitment to achieving these goals, we can create a healthier, more resilient, and inclusive world for all.
         </div>
+        <div className="desc">
+          <b>Note: Content of the course is written by using generative AI.</b>
+        </div>
         <Bottom backText="Courses" nextText="Chapter Two" back="/courses" next="/courses/two" />
       </div>
     </div>

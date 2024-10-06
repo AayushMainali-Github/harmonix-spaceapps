@@ -123,6 +123,9 @@ const Seven = () => {
           enforcement efforts, and empowering local communities are essential steps toward achieving long-term success in wildlife conservation and ensuring the survival of
           endangered species like the African elephant.
         </div>
+        <div className="desc">
+          <b>Note: Content of the course is written by using generative AI.</b>
+        </div>
         <Bottom backText="Chapter 6" nextText="Chapter 8" back="/courses/six" next="/courses/eight" />
       </div>
     </div>

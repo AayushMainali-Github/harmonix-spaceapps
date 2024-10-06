@@ -100,6 +100,9 @@ const Eight = () => {
           human-wildlife conflict. The success of community-based conservation projects, such as those in the Maasai Mara, demonstrates that conservation and economic development
           can go hand in hand. Empowering local communities and respecting Indigenous knowledge systems are essential for long-term conservation success.
         </div>
+        <div className="desc">
+          <b>Note: Content of the course is written by using generative AI.</b>
+        </div>
         <Bottom backText="Chapter 7" nextText="Chapter 9" back="/courses/seven" next="/courses/nine" />
       </div>
     </div>

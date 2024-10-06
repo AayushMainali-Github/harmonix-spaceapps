@@ -10,7 +10,6 @@ const Five = () => {
       <Nav active="course" />
       <div className="container">
         <div className="header">Chapter 5</div>
-
         <div className="header">Conservation and Biodiversity – Protecting Life on Land</div>
         <div className="desc">
           Biodiversity refers to the variety of life forms on Earth, encompassing all species of plants, animals, fungi, microorganisms, the ecosystems they form, and the genetic
@@ -23,7 +22,6 @@ const Five = () => {
           biodiversity for food, medicine, fuel, and income. Biodiversity also holds cultural and spiritual significance for many indigenous peoples, whose traditions and practices
           are closely connected to the natural world. Protecting biodiversity, therefore, means protecting ecosystems, human health, and cultural heritage.
         </div>
-
         <div className="subHeader">Importance of Biodiversity</div>
         <ul className="list">
           <li>
@@ -40,7 +38,6 @@ const Five = () => {
             communities.
           </li>
         </ul>
-
         <div className="subHeader">Threats to Biodiversity</div>
         <div className="desc">
           Biodiversity faces significant threats from human activities, and its decline has reached alarming levels. The loss of biodiversity not only affects ecosystems but also
@@ -65,7 +62,6 @@ const Five = () => {
             species. Overfishing, in particular, has depleted fish populations, threatening both biodiversity and food security.
           </li>
         </ul>
-
         <div className="subHeader">Conservation Strategies</div>
         <div className="desc">
           Protecting biodiversity requires concerted efforts at local, national, and international levels. Several strategies are being employed to conserve ecosystems and protect
@@ -87,12 +83,10 @@ const Five = () => {
             and cleaning up polluted environments. These efforts help reverse the damage caused by human activity and create healthier, more resilient ecosystems.
           </li>
         </ul>
-
         <div className="images">
           <img src={FiveA} alt="Biodiversity in a Thriving Ecosystem" width={500} height={500} />
           <img src={FiveB} alt="Biodiversity in a Thriving Ecosystem" width={500} height={500} />
         </div>
-
         <div className="subHeader">Case Study: Amazon Rainforest</div>
         <div className="desc">
           The Amazon Rainforest is one of the most biodiverse ecosystems on the planet, home to millions of species of plants, animals, and insects. However, deforestation, illegal
@@ -100,13 +94,15 @@ const Five = () => {
           habitat loss and a decline in biodiversity. International and local conservation efforts, including the creation of protected areas and sustainable development programs,
           are underway to protect this vital ecosystem.
         </div>
-
         <div className="subHeader">Conclusion</div>
         <div className="desc">
           Biodiversity is essential for the health and functioning of ecosystems, human livelihoods, and cultural heritage. Protecting biodiversity is not only about conserving
           species but also about safeguarding the services that ecosystems provide. Through effective conservation strategies, such as the establishment of protected areas,
           sustainable resource use, and restoration projects, we can ensure that biodiversity continues to thrive for future generations. As human activities continue to pose
           significant threats to biodiversity, it is critical that global efforts to conserve the natural world are strengthened.
+        </div>
+        <div className="desc">
+          <b>Note: Content of the course is written by using generative AI.</b>
         </div>
         <Bottom backText="Chapter 4" nextText="Chapter 6" back="/courses/four" next="/courses/six" />
       </div>
