@@ -3,7 +3,6 @@ import "./Quizzes.css";
 import Nav from "../../Components/Nav/Nav";
 import Questions from "./Quizzes.json";
 import Quiz from "./Quiz";
-import Bottom from "../Tutorials/Bottom";
 
 const Quizzes = () => {
   const [selected, setSelected] = useState<Array<boolean>>([true, true, true, true, true, true, true, true, true]);
