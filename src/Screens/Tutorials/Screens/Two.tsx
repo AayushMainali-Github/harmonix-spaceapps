@@ -2,10 +2,13 @@ import React from "react";
 import TwoB from "../Assets/twoB.png";
 import TwoC from "../Assets/twoC.png";
 import Bottom from "../Bottom";
+import Nav from "../../../Components/Nav/Nav";
 
 const Two = () => {
   return (
     <div className="tutorialScreen">
+      <Nav active="course" />
+
       <div className="container">
         <div className="header">Chapter 2</div>
         <div className="header">Introduction to SDG 15 – Life on Land</div>

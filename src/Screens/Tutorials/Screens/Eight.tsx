@@ -2,10 +2,12 @@ import React from "react";
 import EightA from "../Assets/eightA.png"; // Image of Indigenous land stewardship
 import EightB from "../Assets/eightB.png"; // Image of Maasai Mara conservation
 import Bottom from "../Bottom";
+import Nav from "../../../Components/Nav/Nav";
 
 const Eight = () => {
   return (
     <div className="tutorialScreen">
+      <Nav active="course" />
       <div className="container">
         <div className="header">Chapter 8</div>
         <div className="header">Local Communities and Indigenous Knowledge in Human-Wildlife Conflict Mitigation</div>

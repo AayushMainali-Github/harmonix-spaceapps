@@ -125,7 +125,15 @@ const Quizzes = () => {
                   <option value="seen">Seen</option>
                   <option value="neverseen">Never Seen</option>
                   <option value="answeredcorrectly">Answered Correctly</option>
-                  <option value="answeredincorrectly">Answered Incorrectly</option>
+                </select>
+              </div>
+              <div>
+                <div className="header">Difficulty</div>
+                <select name="difficulty" id="difficulty">
+                  <option value="all">All</option>
+                  <option value="easy">Easy</option>
+                  <option value="medium">Medium</option>
+                  <option value="hard">Hard</option>
                 </select>
               </div>
               <div>

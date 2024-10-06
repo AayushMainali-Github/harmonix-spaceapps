@@ -2,10 +2,13 @@ import React from "react";
 import SevenA from "../Assets/sevenA.png"; // Image of international wildlife agreements
 import SevenB from "../Assets/sevenB.png"; // Image of elephant conservation efforts
 import Bottom from "../Bottom";
+import Nav from "../../../Components/Nav/Nav";
 
 const Seven = () => {
   return (
     <div className="tutorialScreen">
+      <Nav active="course" />
+
       <div className="container">
         <div className="header">Chapter 7</div>
 

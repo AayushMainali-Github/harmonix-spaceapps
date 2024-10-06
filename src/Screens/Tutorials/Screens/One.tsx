@@ -3,10 +3,13 @@ import OneA from "../Assets/oneA.png";
 import OneB from "../Assets/oneB.png";
 import OneC from "../Assets/oneC.png";
 import Bottom from "../Bottom";
+import Nav from "../../../Components/Nav/Nav";
 
 const One = () => {
   return (
     <div className="tutorialScreen">
+      <Nav active="course" />
+
       <div className="container">
         <div className="header">Chapter 1</div>
 

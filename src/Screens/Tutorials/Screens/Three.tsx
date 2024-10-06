@@ -2,10 +2,13 @@ import React from "react";
 import ThreeB from "../Assets/threeB.png"; // Image showing human-wildlife conflict
 import ThreeC from "../Assets/threeC.png"; // Image showing human-wildlife conflict
 import Bottom from "../Bottom";
+import Nav from "../../../Components/Nav/Nav";
 
 const Three = () => {
   return (
     <div className="tutorialScreen">
+      <Nav active="course" />
+
       <div className="container">
         <div className="header">Chapter 3</div>
         <div className="header">Human-Wildlife Conflict – A Key Issue in SDG 15</div>

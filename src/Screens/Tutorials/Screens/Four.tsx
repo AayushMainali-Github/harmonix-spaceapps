@@ -2,10 +2,13 @@ import React from "react";
 import FourA from "../Assets/fourA.png"; // Image of drone monitoring wildlife
 import FourB from "../Assets/fourB.png"; // Image of GPS collar tracking
 import Bottom from "../Bottom";
+import Nav from "../../../Components/Nav/Nav";
 
 const Four = () => {
   return (
     <div className="tutorialScreen">
+      <Nav active="course" />
+
       <div className="container">
         <div className="header">Chapter 4</div>
 

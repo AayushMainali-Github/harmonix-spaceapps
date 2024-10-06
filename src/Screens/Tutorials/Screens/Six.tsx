@@ -2,10 +2,13 @@ import React from "react";
 import SixA from "../Assets/sixA.png"; // Image of ecosystem services
 import SixB from "../Assets/sixB.png"; // Image of wildlife corridors
 import Bottom from "../Bottom";
+import Nav from "../../../Components/Nav/Nav";
 
 const Six = () => {
   return (
     <div className="tutorialScreen">
+      <Nav active="course" />
+
       <div className="container">
         <div className="header">Chapter 6</div>
 

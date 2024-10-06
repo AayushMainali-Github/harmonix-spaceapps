@@ -2,10 +2,13 @@ import React from "react";
 import NineA from "../Assets/nineA.png"; // Image of climate change impacting wildlife
 import NineB from "../Assets/nineB.png"; // Image of polar bear conflict due to climate change
 import Bottom from "../Bottom";
+import Nav from "../../../Components/Nav/Nav";
 
 const Nine = () => {
   return (
     <div className="tutorialScreen">
+      <Nav active="course" />
+
       <div className="container">
         <div className="header">Chapter 9</div>
 

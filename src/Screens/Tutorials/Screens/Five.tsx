@@ -2,10 +2,12 @@ import React from "react";
 import FiveA from "../Assets/fiveA.png";
 import FiveB from "../Assets/fiveB.png";
 import Bottom from "../Bottom";
+import Nav from "../../../Components/Nav/Nav";
 
 const Five = () => {
   return (
     <div className="tutorialScreen">
+      <Nav active="course" />
       <div className="container">
         <div className="header">Chapter 5</div>
 
